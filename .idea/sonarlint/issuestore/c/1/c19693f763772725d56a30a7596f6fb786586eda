@@ -1,0 +1,79 @@
+
+u
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ‹ù¨ÿÿÿÿÿ
+c
+java:S1192("HDefine a constant instead of duplicating this literal "userID" 22 times.(ÃÅº€ûÿÿÿÿ
+d
+java:S1192«"MDefine a constant instead of duplicating this literal "evaluationID" 4 times.(Ñ–üƒ
+{
+java:S1192£"_Define a constant instead of duplicating this literal "location.href = 'loginView.do'" 4 times.(’Óãşÿÿÿÿ
+|
+java:S1192±"eDefine a constant instead of duplicating this literal "alert('ë¡œê·¸ì¸ì„ í•´ì£¼ì„¸ìš”.');" 6 times.(ÇÈùã
+f
+java:S11923"KDefine a constant instead of duplicating this literal "</script>" 34 times.(øâ—øÿÿÿÿ
+h
+java:S1192+"MDefine a constant instead of duplicating this literal "userPassword" 4 times.(ú ï»üÿÿÿÿ
+f
+java:S1192Ò"ODefine a constant instead of duplicating this literal "semesterDivide" 4 times.(­÷Âÿ
+u
+java:S1192?"ZDefine a constant instead of duplicating this literal "location.href='index.jsp'" 3 times.(ÃÔÏßıÿÿÿÿ
+e
+java:S11920"JDefine a constant instead of duplicating this literal "<script>" 34 times.(£©†úÿÿÿÿ
+\
+java:S1192%"FDefine a constant instead of duplicating this literal "UTF-8" 8 times.(›éè¸
+m
+java:S1192î"VDefine a constant instead of duplicating this literal "TESTsjh8924@gmail.com" 3 times.(šçâ¯
+g
+java:S11922"QDefine a constant instead of duplicating this literal "history.back();" 13 times.(ÍïÎ
+w
+java:S1192µ"[Define a constant instead of duplicating this literal "location.href='index.jsp';" 3 times.(Ãã„øÿÿÿÿ
+j
+java:S1192Ø"NDefine a constant instead of duplicating this literal "lectureDivide" 4 times.(–‘Õ†üÿÿÿÿ
+i
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 164 to the 15 allowed.(âíÇâ
+^
+java:S1854À"BRemove this useless assignment to local variable "evaluationList".(ñ‹ù¨ÿÿÿÿÿ
+T
+java:S1854í"8Remove this useless assignment to local variable "host".(Õ¼Ãˆøÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(âíÇâ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(È©¥œúÿÿÿÿ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(ÉÕÑÚ
+R	java:S125–"<This block of commented-out lines of code should be removed.(Êşÿò
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(óü¡§úÿÿÿÿ
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(ìÄâşÿÿÿÿ
+T	java:S106Ï"9Replace this use of System.out or System.err by a logger.(£ôÿÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(Êşÿò
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(âİ»ø
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(ìåæÆ
+N	java:S106’"9Replace this use of System.out or System.err by a logger.(ç·‹z
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(‰í×
+>
+java:S1125¸"'Remove the unnecessary boolean literal.(°Ú‹
+E
+java:S1481í")Remove this unused "host" local variable.(Õ¼Ãˆøÿÿÿÿ
+“
+java:S5527ı"wEnable server hostname verification on this SSL/TLS connection, by setting "mail.smtp.ssl.checkserveridentity" to true.(­™³ÿÿÿÿÿ
+>
+java:S1125µ"'Remove the unnecessary boolean literal.(—¤¤
+L
+java:S2209Å"5Change this instance-reference to a static reference.(Ğ¹’ö
+=
+java:S2440Å"&Remove this instantiation of "SHA256".(Ğ¹’ö
+“
+java:S5527Ñ"wEnable server hostname verification on this SSL/TLS connection, by setting "mail.smtp.ssl.checkserveridentity" to true.(­™³ÿÿÿÿÿ
+?
+java:S1125ƒ"(Remove the unnecessary boolean literals.(ğ‚òÍ
+L
+java:S2209ƒ"5Change this instance-reference to a static reference.(ğ‚òÍ
+=
+java:S2440ƒ"&Remove this instantiation of "SHA256".(ğ‚òÍ
+>
+java:S1125„"'Remove the unnecessary boolean literal.(ã³»ê
+R	java:S125”"<This block of commented-out lines of code should be removed.(Êşÿò
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(î¿‹½
+O	java:S106"9Replace this use of System.out or System.err by a logger.(êÕŠ–
+O	java:S106¢"9Replace this use of System.out or System.err by a logger.(´êË—
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(Ô–àáùÿÿÿÿ
+Ş
+java:S6541"ÇA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 597 to 64, Complexity from 98 to 14, Nesting Level from 3 to 2, Number of Variables from 129 to 6.(âíÇâ
